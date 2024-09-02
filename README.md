@@ -1,6 +1,6 @@
 # GUI-Spektrofotometer
 
-<p>Antarmuka pengguna spektrofotometer ultraviolet, visible, dan near infrared ini dirancang untuk mengumpulkan dan mempermudah proses anotasi data spektral untuk melatih model machine learning.<p>
+<p>Antarmuka pengguna spektrofotometer ultraviolet, visible, dan near infrared ini dirancang untuk mengumpulkan dan mempermudah proses anotasi data spektral untuk melatih model machine learning. Antarmuka ini juga dapat digunakan untuk spektrofotometer yang memiliki koneksi secara nirkabel maupun via usb.<p>
 
 ![image](https://github.com/user-attachments/assets/0aba93c3-570b-4273-b323-8fa807e885ce)
 
@@ -19,7 +19,7 @@
 # **Starter Guide**
 ---
 ## 1. Download File Source Code
-Download file zip program di repository ini (klik di sini[])
+- Download file zip program di repository ini : [klik di sini](https://github.com/MRidhoPratama251/GUI-Spektrofotometer/archive/refs/heads/main.zip)
 
 ## 2. Jalankan Program
 - Buka command prompt atau anaconde prompt dan ubah folder ke work directory
@@ -28,5 +28,7 @@ Download file zip program di repository ini (klik di sini[])
   python GUI_Spektroscreen.py
   ```
 - Pastikan file pengaturan.txt dan folder icon berada dalam work directory
+
+
 
   
