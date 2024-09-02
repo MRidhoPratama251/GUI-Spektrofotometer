@@ -1,0 +1,18 @@
+bounding_box : val_X, hor, val_Y,ver
+0 100 46 8
+x_limit:
+355.13740449438205 951.992095505618
+trim_point : 
+508.201 757.396
+camera_port:
+1
+file_ref:
+
+file_ambient:
+
+angka_presisi:
+5 11
+set_savgol:
+20 4
+stat_savgol:
+0
